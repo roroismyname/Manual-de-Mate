@@ -1,0 +1,28 @@
+body {
+
+    background-color: rgb(177, 241, 220);
+
+}
+
+div {
+
+    margin: 10vw 30vw ;
+
+}
+.margen {
+    padding: 10px;
+    background-color: rgb(165, 89, 236);
+    border-color: black;
+    margin: 10vw 20vw;
+    border-width: 2 px;
+    border-style: solid;
+}
+img{
+    width: 20vw;
+}
+p{
+    background-color: aliceblue;
+}
+h3{
+    background-color: aliceblue;
+}
